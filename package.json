@@ -1,0 +1,16 @@
+{
+  "name": "data-mesh-slides",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.40.14",
+    "slidev-theme-patrickdronk": "^0.0.11"
+  },
+  "devDependencies": {
+    "@iconify-json/ri": "^1.1.8"
+  }
+}
