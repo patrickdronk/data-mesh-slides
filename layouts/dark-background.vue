@@ -7,8 +7,9 @@ const props = defineProps({
 })
 
 const style = computed(() => {
+    const darkOverlay = 'linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),';
     return {
-        backgroundImage: `url("${resolveAssetUrl(props.image)}")`,
+        backgroundImage: `${darkOverlay}url("${resolveAssetUrl(props.image)}")`,
         backgroundRepeat: 'no-repeat',
         backgroundPosition: 'center',
         backgroundSize: 'cover',
@@ -18,23 +19,17 @@ const style = computed(() => {
 const overlayStyle = computed(() => {
     return {
         backgroundColor: 'rgba(0, 0, 0, 0.7)',
-        zIndex: 1,
+        zIndex: 0,
     }
 })
 </script>
 
-<!--<div class="bg-main slidev-layout default" :style="style">-->
-<!--<div class="my-auto h-full">-->
-<!--    <slot />-->
-<!--</div>-->
-<!--</div>-->
-
 <template>
     <div class="bg-main slidev-layout default" :style="style">
-        <div class="dark-overlay absolute inset-0" :style="overlayStyle"></div>
         <div class="my-auto z-10">
             <slot />
         </div>
     </div>
 </template>
+
 

@@ -14,5 +14,3 @@ image: images/mesh-overview.jpg
 - Scalability
 
 </v-clicks>
-
-<Footer/>
