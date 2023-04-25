@@ -1,13 +1,18 @@
 ---
-layout: default
+layout: image-right
+image: images/mesh-overview.jpg
 ---
 # Data mesh overview
 
 ## Key principles of a Data Mesh
-* Decentralization
-* Self-service
-* Semi-governance
-* Resilience
-* Scalability
+<v-clicks>
+
+- Decentralization
+- Self-service
+- Semi-governance
+- Resilience
+- Scalability
+
+</v-clicks>
 
 <Footer/>
