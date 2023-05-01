@@ -1,6 +1,6 @@
 ---
 layout: image
-image: images/sync-1.jpg
+image: images/sync-6.jpg
 ---
 
 <Footer/>

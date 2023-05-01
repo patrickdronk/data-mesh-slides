@@ -60,7 +60,37 @@ src: slides/05-data-mesh-overview.md
 src: slides/06-data-mesh-comparison.md
 ---
 ---
+src: slides/07-data-mesh-postnl-intro.md
+---
+---
 src: slides/07-data-mesh-postnl-synchronous.md
+---
+---
+src: slides/07-data-mesh-postnl-synchronous-2.md
+---
+---
+src: slides/07-data-mesh-postnl-synchronous-3.md
+---
+---
+src: slides/07-data-mesh-postnl-synchronous-4.md
+---
+---
+src: slides/07-data-mesh-postnl-synchronous-5.md
+---
+---
+src: slides/07-data-mesh-postnl-synchronous-6.md
+---
+---
+src: slides/07-data-mesh-postnl-synchronous-7.md
+---
+---
+src: slides/07-data-mesh-postnl-synchronous-8.md
+---
+---
+src: slides/07-data-mesh-postnl-synchronous-9.md
+---
+---
+src: slides/07-data-mesh-postnl-synchronous-10.md
 ---
 ---
 src: slides/08-data-mesh-postnl-asynchronous.md
