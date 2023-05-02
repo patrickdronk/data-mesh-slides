@@ -96,7 +96,22 @@ src: slides/07-data-mesh-postnl-synchronous-10.md
 src: slides/08-data-mesh-postnl-asynchronous.md
 ---
 ---
+src: slides/08-data-mesh-postnl-asynchronous-2.md
+---
+---
+src: slides/08-data-mesh-postnl-asynchronous-3.md
+---
+---
+src: slides/08-data-mesh-postnl-asynchronous-4.md
+---
+---
+src: slides/08-data-mesh-postnl-asynchronous-5.md
+---
+---
 src: slides/09-data-mesh-postnl-raw.md
+---
+---
+src: slides/09-data-mesh-postnl-raw-2.md
 ---
 ---
 src: slides/10-data-mesh-postnl-cohesive.md
