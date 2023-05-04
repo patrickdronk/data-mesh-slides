@@ -123,6 +123,24 @@ src: slides/09-data-mesh-postnl-raw-4.md
 src: slides/10-data-mesh-postnl-cohesive.md
 ---
 ---
+src: slides/10-data-mesh-postnl-cohesive-1.md
+---
+---
+src: slides/10-data-mesh-postnl-cohesive-2.md
+---
+---
+src: slides/10-data-mesh-postnl-cohesive-3.md
+---
+---
+src: slides/10-data-mesh-postnl-cohesive-4.md
+---
+---
+src: slides/10-data-mesh-postnl-cohesive-5.md
+---
+---
+src: slides/10-data-mesh-postnl-cohesive-6.md
+---
+---
 src: slides/11-building-data-mesh-data-product-thinking.md
 ---
 ---
