@@ -141,7 +141,10 @@ src: slides/10-data-mesh-postnl-cohesive-5.md
 src: slides/10-data-mesh-postnl-cohesive-6.md
 ---
 ---
-src: slides/11-building-data-mesh-data-product-thinking.md
+src: slides/11-building-data-mesh-data-product-thinking-0.md
+---
+---
+src: slides/11-building-data-mesh-data-product-thinking-1.md
 ---
 ---
 src: slides/12-building-data-mesh-ddd.md
