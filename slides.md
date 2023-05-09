@@ -80,12 +80,18 @@ src: slides/07-data-mesh-postnl-synchronous-5.md
 ---
 src: slides/07-data-mesh-postnl-synchronous-6.md
 ---
----
-src: slides/07-data-mesh-postnl-synchronous-7.md
----
----
-src: slides/07-data-mesh-postnl-synchronous-8.md
----
+
+[//]: # (---)
+
+[//]: # (src: slides/07-data-mesh-postnl-synchronous-7.md)
+
+[//]: # (---)
+
+[//]: # (---)
+
+[//]: # (src: slides/07-data-mesh-postnl-synchronous-8.md)
+
+[//]: # (---)
 ---
 src: slides/07-data-mesh-postnl-synchronous-9.md
 ---
@@ -108,6 +114,9 @@ src: slides/08-data-mesh-postnl-asynchronous-4.md
 src: slides/08-data-mesh-postnl-asynchronous-5.md
 ---
 ---
+src: slides/08-data-mesh-postnl-asynchronous-6.md
+---
+---
 src: slides/09-data-mesh-postnl-raw.md
 ---
 ---
@@ -118,6 +127,9 @@ src: slides/09-data-mesh-postnl-raw-3.md
 ---
 ---
 src: slides/09-data-mesh-postnl-raw-4.md
+---
+---
+src: slides/09-data-mesh-postnl-raw-5.md
 ---
 ---
 src: slides/10-data-mesh-postnl-cohesive.md
@@ -178,7 +190,4 @@ src: slides/21-results-key-insights-recommendations.md
 ---
 ---
 src: slides/22-conclusion-recap.md
----
----
-src: slides/23-conclusion-future-outlook-improvements.md
 ---

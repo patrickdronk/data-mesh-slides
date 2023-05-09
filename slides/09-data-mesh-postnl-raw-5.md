@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Data Mesh Synchronous API
+# Data Mesh Raw Data API
 ## Result
 
 <v-clicks>
