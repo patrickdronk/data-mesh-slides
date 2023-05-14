@@ -51,7 +51,7 @@ src: slides/02-about-me.md
 src: slides/03-background-postnl.md
 ---
 ---
-src: slides/04-challenges-monolithic-arch.md
+src: slides/04-adata-mesh-overview-01.md
 ---
 ---
 src: slides/05-data-mesh-overview.md
