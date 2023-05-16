@@ -9,7 +9,6 @@ image: images/balancing.jpg
 
 - Establish organization-wide standards
 - Encouraging innovation while maintaining control
-- Providing self-service infrastructure with guidelines
 - Promoting a culture of collaboration and accountability
 
 </v-clicks>

@@ -7,9 +7,8 @@ image: images/improved-scalability-agility.jpg
 
 <v-clicks>
 
-- Decentralized data management for faster response
 - Domain-specific data teams reduce bottlenecks
-- Scalable infrastructure and self-service tools
+- Infrastructure and self-service tools
 - Encouraging innovation and experimentation
 - Adapting quickly to changing business requirements
 
@@ -18,10 +17,6 @@ image: images/improved-scalability-agility.jpg
 <Footer/>
 
 <!--
-
-Decentralized data management for faster response:
-Data mesh's decentralized approach to data management enables organizations to respond more quickly to 
-new data requirements and changes in the data landscape.
 
 Domain-specific data teams reduce bottlenecks:
 By distributing data management responsibilities across domain-specific data teams, data mesh helps 
