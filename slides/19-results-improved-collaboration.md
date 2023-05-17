@@ -5,15 +5,21 @@ image: images/improved-collab.jpg
 # Results
 ## Improved collaboration
 
-<v-clicks>
+[//]: # (<v-clicks>)
 
-- Breaking down data silos
-- Cross-functional domain-specific data teams
-- Knowledge sharing and learning opportunities
-- Shared data infrastructure and tools
-- Collaborative data governance and standardization
+[//]: # ()
+[//]: # (- Breaking down data silos)
 
-</v-clicks>
+[//]: # (- Cross-functional domain-specific data teams)
+
+[//]: # (- Knowledge sharing and learning opportunities)
+
+[//]: # (- Shared data infrastructure and tools)
+
+[//]: # (- Collaborative data governance and standardization)
+
+[//]: # ()
+[//]: # (</v-clicks>)
 
 <Footer/>
 
