@@ -9,9 +9,9 @@ layout: default
 - Challenges of monolithic data architectures
 - Data Mesh concept
 - Data Mesh @PostNL
-  - Synchronous API
-  - Asynchronous API
-  - Raw Data API
+  - Synchronous Gateway
+  - Asynchronous Gateway
+  - Raw Data Gateway
   - Explorer
 - Building a Data Mesh
 - Challenges we faced

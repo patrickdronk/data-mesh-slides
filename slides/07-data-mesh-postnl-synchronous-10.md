@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Data Mesh Synchronous API
+# Data Mesh Synchronous Gateway
 ## Result
 
 <v-clicks>

@@ -2,6 +2,6 @@
 layout: default
 ---
 # Data mesh @PostNL
-## Asynchronous API
+## Asynchronous Gateway
 
 <Footer/>

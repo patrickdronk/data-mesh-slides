@@ -189,6 +189,9 @@ src: slides/16-challenges-cultural-organizational.md
 src: slides/17-challenges-complexity-of-the-data-ecosystem.md
 ---
 ---
+src: slides/18-results-gateways.md
+---
+---
 src: slides/18-results-improved-scalability-agility.md
 ---
 ---

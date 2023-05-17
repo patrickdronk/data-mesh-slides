@@ -2,6 +2,6 @@
 layout: default
 ---
 # Data mesh @PostNL
-## Raw Data API
+## Raw Data Gateway
 
 <Footer/>

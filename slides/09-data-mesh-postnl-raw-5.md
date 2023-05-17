@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Data Mesh Raw Data API
+# Data Mesh Raw Data Gateway
 ## Result
 
 <v-clicks>

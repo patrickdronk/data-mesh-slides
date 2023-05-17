@@ -4,4 +4,4 @@ image: images/sync-4.png
 ---
 
 # Data mesh @PostNL
-## Synchronous API
+## Synchronous Gateway

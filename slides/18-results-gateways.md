@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Data Mesh Asynchronous Gateway
+# Data Mesh Gateways
 ## Result
 
 <v-clicks>
