@@ -7,14 +7,15 @@ layout: default
 <v-clicks>
 
 - Challenges of monolithic data architectures
-- Data mesh concept and benefits
+- Data Mesh concept
 - Data Mesh @PostNL
   - Synchronous API
   - Asynchronous API
   - Raw Data API
-- Building a self-service, semi-governed, and scalable data mesh
+  - Explorer
+- Building a Data Mesh
 - Challenges we faced
-- Key insights and recommendations
+- Results
 
 </v-clicks>
 

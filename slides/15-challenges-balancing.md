@@ -7,9 +7,11 @@ image: images/balancing.jpg
 
 <v-clicks>
 
-- Establish organization-wide standards
-- Encouraging innovation while maintaining control
-- Promoting a culture of collaboration and accountability
+[//]: # (- Establish organization-wide standards)
+
+[//]: # (- Encouraging innovation while maintaining control)
+
+[//]: # (- Promoting a culture of collaboration and accountability)
 
 </v-clicks>
 

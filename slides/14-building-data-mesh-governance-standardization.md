@@ -5,15 +5,21 @@ image: images/gov-standard.jpg
 # Building the Data Mesh
 ## Governance and standardization
 
-<v-clicks>
+[//]: # (<v-clicks>)
 
-- Establishing data governance policies
-- Defining data quality standards
-- Creating metadata and schema standards
-- Implementing security and privacy guidelines
-- Monitoring and auditing data usage
+[//]: # ()
+[//]: # (- Establishing data governance policies)
 
-</v-clicks>
+[//]: # (- Defining data quality standards)
+
+[//]: # (- Creating metadata and schema standards)
+
+[//]: # (- Implementing security and privacy guidelines)
+
+[//]: # (- Monitoring and auditing data usage)
+
+[//]: # ()
+[//]: # (</v-clicks>)
 
 <Footer/>
 

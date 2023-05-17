@@ -5,15 +5,21 @@ image: images/complexity-data.jpg
 # Challenges
 ## Complexity of the data ecosystem
 
-<v-clicks>
+[//]: # (<v-clicks>)
 
-- Multiple data sources and formats
-- Decentralized data management
-- Integration and interoperability challenges
-- Maintaining consistency and quality
-- Evolving technology landscape
+[//]: # ()
+[//]: # (- Multiple data sources and formats)
 
-</v-clicks>
+[//]: # (- Decentralized data management)
+
+[//]: # (- Integration and interoperability challenges)
+
+[//]: # (- Maintaining consistency and quality)
+
+[//]: # (- Evolving technology landscape)
+
+[//]: # ()
+[//]: # (</v-clicks>)
 
 <Footer/>
 

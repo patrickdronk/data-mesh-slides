@@ -5,14 +5,15 @@ image: images/assets.jpg
 # Building the Data Mesh
 ## Domain Specific teams
 
-<v-clicks>
+[//]: # (<v-clicks>)
 
-- Aligning teams with business domains
-- Domain experts responsible for data products
-- Cross-functional teams for end-to-end data management
-- Autonomy to make data-related decisions
+[//]: # ()
+[//]: # (- Domain experts responsible for data products)
 
-</v-clicks>
+[//]: # (- Autonomy to make data-related decisions)
+
+[//]: # ()
+[//]: # (</v-clicks>)
 
 <Footer/>
 

@@ -63,6 +63,9 @@ src: slides/06-data-mesh-comparison.md
 src: slides/07-data-mesh-postnl-intro.md
 ---
 ---
+src: slides/07-data-mesh-postnl-intro-1.md
+---
+---
 src: slides/07-data-mesh-postnl-synchronous.md
 ---
 ---
@@ -197,9 +200,11 @@ src: slides/19-results-improved-collaboration.md
 [//]: # (src: slides/20-results-data-pipeline-development.md)
 
 [//]: # (---)
----
-src: slides/21-results-key-insights-recommendations.md
----
+[//]: # (---)
+
+[//]: # (src: slides/21-results-key-insights-recommendations.md)
+
+[//]: # (---)
 ---
 src: slides/22-conclusion-recap.md
 ---

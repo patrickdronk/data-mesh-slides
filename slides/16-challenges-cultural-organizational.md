@@ -5,14 +5,19 @@ image: images/cultural-organizational.jpg
 # Challenges
 ## Cultural and organizational shifts
 
-<v-clicks>
+[//]: # (<v-clicks>)
 
-- Transitioning from siloed to collaborative mindset
-- Embracing domain-driven data ownership
-- Fostering a data product mindset
-- Adapting to new roles and responsibilities
+[//]: # ()
+[//]: # (- Transitioning from siloed to collaborative mindset)
 
-</v-clicks>
+[//]: # (- Embracing domain-driven data ownership)
+
+[//]: # (- Fostering a data product mindset)
+
+[//]: # (- Adapting to new roles and responsibilities)
+
+[//]: # ()
+[//]: # (</v-clicks>)
 
 <Footer/>
 

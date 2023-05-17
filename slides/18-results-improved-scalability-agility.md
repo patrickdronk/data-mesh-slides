@@ -5,14 +5,19 @@ image: images/improved-scalability-agility.jpg
 # Results
 ## Improved scalability and agility
 
-<v-clicks>
+[//]: # (<v-clicks>)
 
-- Domain-specific data teams reduce bottlenecks
-- Infrastructure and self-service tools
-- Encouraging innovation and experimentation
-- Adapting quickly to changing business requirements
+[//]: # ()
+[//]: # (- Domain-specific data teams reduce bottlenecks)
 
-</v-clicks>
+[//]: # (- Infrastructure and self-service tools)
+
+[//]: # (- Encouraging innovation and experimentation)
+
+[//]: # (- Adapting quickly to changing business requirements)
+
+[//]: # ()
+[//]: # (</v-clicks>)
 
 <Footer/>
 
